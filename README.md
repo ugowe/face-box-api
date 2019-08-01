@@ -1,4 +1,4 @@
-# SmartBrain-api - v2
+# FaceBox-api
 Final project for Udemy course
 
 1. Clone this repo
